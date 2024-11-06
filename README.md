@@ -27,3 +27,7 @@ Metotlar, yeniden kullanılabilir ve modüler kod yazmak için kritik öneme sah
 
 # 📍 Proje 9: Veritabanı Projesi (Database Project)
 Bu proje, C# ile bir veritabanı sistemini entegre eder ve CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerinin nasıl gerçekleştirileceğini gösterir. C# uygulamasının bir veritabanına bağlanması ve SQL sorgularının yürütülmesi konularını kapsar.
+Proje 10 için şu şekilde bir açıklama yazabilirsiniz:
+
+# 📍 Proje 10: Veritabanı CRUD İşlemleri (Database CRUD Operations)
+Bu proje, önceki Veritabanı Projesi'ni (Proje 9) geliştirerek, tam CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerinin nasıl yapılacağını gösterir. ADO.NET kullanarak C# uygulamasının bir SQL Server veritabanına bağlanması ve veri yönetimi işlemleriyle kullanıcı etkileşimini sağlayan bir sistem geliştirilir. Bu projede, veritabanı üzerinde veri ekleme, okuma, güncelleme ve silme işlemleri detaylı bir şekilde yapılır.
